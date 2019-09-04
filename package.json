@@ -5,13 +5,6 @@
   "eggPlugin": {
     "name": "mongoose"
   },
-  "keywords": [
-    "egg",
-    "egg-model",
-    "mongoose",
-    "eggPlugin",
-    "egg-plugin"
-  ],
   "dependencies": {
     "@types/mongoose": "^5.3.24",
     "await-first": "^1.0.0",
@@ -52,12 +45,5 @@
   ],
   "ci": {
     "version": "8, 10, 12"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/eggjs/egg-mongoose.git"
-  },
-  "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
   }
 }
