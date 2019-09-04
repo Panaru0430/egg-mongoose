@@ -1,6 +1,6 @@
 {
   "name": "egg-mongoose2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "egg mongoose plugin",
   "eggPlugin": {
     "name": "mongoose"
